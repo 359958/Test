@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/Test/v16
+/.vs
+/Azure/bin/Debug/netcoreapp3.0
+/Azure/.vs/Azure
+/Azure/obj
