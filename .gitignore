@@ -7,3 +7,6 @@
 /Azure/bin/Debug/netcoreapp3.0
 /Azure/.vs/Azure
 /Azure/obj
+/Azure.Test
+/Azure/bin/Release/netcoreapp3.0
+/Azure/Properties/PublishProfiles

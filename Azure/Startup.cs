@@ -26,6 +26,7 @@ namespace Azure
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddScoped<IWeather, WeathersRepo>();
             services.AddSwaggerGen();
         }
 
