@@ -10,7 +10,7 @@ namespace Azure
 
         private static readonly string[] Summaries = new[]
        {
-            "Freezing", "Bracing", "Mild Chilly", "Mild Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" ,"Too Hot"
+            "Mild Freezing", "Mild Bracing", "Mild Chilly", "Mild Cool", "Mild", "Mild Warm", "Mild Balmy", "Mild Hot", "Mild Sweltering", "Mild Scorching" ,"Too Hot"
         };
         public string Get(int rnd)
         {
